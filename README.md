@@ -13,8 +13,7 @@
   <li>CSS.</li>
 </ul>
 
-![](imgs/Sample1.PNG)
+![](images/simonGame.PNG)
 
-![](imgs/Sample2.PNG)
 
 <p> <b>Nestor Garcia.</b></p>
