@@ -2,7 +2,7 @@
 
 <h2>Browser game that requires memorizing next moves!</h2>
 
-<p>Built during 2022 just for fun and to improve JavaScript/jQuery skills..</p>
+<p>Built during 2022 just for fun and to improve JavaScript/jQuery skills.</p>
 
 <b>Skills used:</b>
   <p></p>
