@@ -1,6 +1,6 @@
 # Simon Game
 
-<h2>Browser game that requires memorizing next moves1</h2>
+<h2>Browser game that requires memorizing next moves1!</h2>
 
 <p>Built during 2022 just for fun and to improve JavaScript/jQuery skills.</p>
 
